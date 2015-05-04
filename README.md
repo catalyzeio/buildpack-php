@@ -1,4 +1,4 @@
-# Heroku buildpack: PHP
+# PHP Getting Started Guide
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for PHP applications.
 
